@@ -4,7 +4,7 @@
 
 **[Download](https://github.com/s-marty/Wikipedia-Tweaker/raw/master/src/Wikipedia.user.js) | [Donate](https://github.com/s-marty/SmartChute/wiki/Donate)**
 
-A userscript to provide a dark theme and hidden left column as well as a 20% increase zoom for Wikipedia.com
+A userscript to provide a dark theme and hidden left column as well as a 20% increase zoom for Wikipedia.org
 
 All features are disableable in the code "Editable options".
 
