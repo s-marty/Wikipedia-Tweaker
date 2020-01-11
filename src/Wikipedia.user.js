@@ -8,6 +8,7 @@
 // @compatible      opera
 // @license         MIT
 // @namespace       https://github.com/s-marty/Wikipedia-Tweaker
+// @homepageURL     https://github.com/s-marty/Wikipedia-Tweaker
 // @icon            https://github.com/s-marty/Wikipedia-Tweaker/raw/master/images/Wikipedia.png
 // @downloadURL     https://github.com/s-marty/Wikipedia-Tweaker/raw/master/src/Wikipedia.user.js
 // @include         *wikipedia.org/wiki/*
