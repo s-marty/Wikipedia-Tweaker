@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name            Wikipedia Tweaker
 // @version         20.1.11
-// @description     Hides left column, adds dark theme.
+// @description     Hides left column, adds dark theme at Wikipedia.org.
 // @author          S-Marty
 // @compatible      firefox
 // @compatible      chrome
